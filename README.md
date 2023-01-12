@@ -13,8 +13,6 @@
 
 </div>
 
-
-### Preview
 ![Preview screenshot](preview.png)
 
 ### Overview
