@@ -9,7 +9,7 @@
   ![GitHub stars](https://img.shields.io/github/stars/mde3/mabior-v1?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/mde3/mabior-v1?style=social)
 
-  <a href=""><strong>➥ Live Demo</strong></a>
+  <a href="https://mde3.github.io/mabior-v1/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
